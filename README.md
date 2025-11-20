@@ -46,7 +46,7 @@ Persistencia de Datos: Archivos de texto (`.txt`)
 Instalación y Uso
 
 1. Requisitos
-Asegúrate de tener Python 3 instalado en tu sistema.
+Asegúrate de tener Python instalado en tu sistema.
 
 2. Clonar el Repositorio
 ```bash
