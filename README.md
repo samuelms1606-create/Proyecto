@@ -50,5 +50,3 @@ Asegúrate de tener Python instalado en tu sistema.
 
 2. Clonar el Repositorio
 ```bash
-git clone [https://github.com/TuUsuario/StudyBonventuriano.git](https://github.com/TuUsuario/StudyBonventuriano.git)
-cd StudyBonventuriano
