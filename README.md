@@ -27,9 +27,13 @@ Objetivos Específicos:
 Ejemplo de Uso:
 
 Elige una opción (1-5): 1
--REGISTRAR NUEVA SESIÓN DE ESTUDIO-
-Asignatura estudiada (e.g., Programación, Cálculo): Cálculo Diferencial
+
+Registrar nueva sesion de estudio
+
+Asignatura estudiada (ej., Cálculo): Cálculo Diferencial
+
 Duración de la sesión en minutos: 90
+
 Sesión registrada: Cálculo Diferencial - 90 minutos.
 
 
