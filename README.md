@@ -13,7 +13,7 @@ Ante la dificultad común de la falta de organización del tiempo dedicado al es
 
 Objetivos
 
-Objetivo General
+Objetivo General:
 Desarrollar una aplicación en Python que permita registrar, organizar y analizar las sesiones de estudio de los estudiantes, con el fin de mejorar su planificación académica y promover hábitos de estudio más eficientes.
 
 Objetivos Específicos
